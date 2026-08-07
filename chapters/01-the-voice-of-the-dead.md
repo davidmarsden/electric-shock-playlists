@@ -10,7 +10,7 @@ The playlist therefore should not sound like a generic “music before 1900” a
 
 | # | Status | Artist / performer | Track | Why it belongs | Verification |
 |---|---|---|---|---|---|
-| 1 | DOGGETT | George J. Gaskin | After the Ball | Central early example of a mass commercial song moving from sheet-music phenomenon into recorded culture. | Exact recording/link to verify |
+| 1 | DOGGETT | George J. Gaskin | After the Ball | Central early example of a mass commercial song moving from sheet-music phenomenon into recorded culture. | **Verified candidate: 1893 Gaskin transfer; preferred YouTube link selected** |
 | 2 | DOGGETT | John Yorke AtLee | After the Ball | A second version is intentional: at this stage the song itself, not one definitive artist recording, is the commodity. | Exact recording/link to verify |
 | 3 | CONTEXT | George W. Johnson | The Laughing Song | Early Black recording star; demonstrates novelty, personality and repeatable performance as record-selling attractions. | Exact recording/link to verify |
 | 4 | CONTEXT | George W. Johnson | The Whistling Coon | Historically important but racist material; included because racial caricature was embedded in the early commercial music business and should not be sanitised out of the history. | Exact recording/link to verify |
@@ -31,6 +31,31 @@ The playlist therefore should not sound like a generic “music before 1900” a
 | 19 | CONTEXT | Enrico Caruso | Vesti la giubba | Recording technology helping to create an international phonographic superstar. | Exact preferred transfer to verify |
 | 20 | CONTEXT | Enrico Caruso | O Sole Mio | Proposed closer: the archival recording makes the chapter title literal — a dead performer remains present through recorded sound. | Exact preferred transfer to verify |
 
+## Research record
+
+### 1. George J. Gaskin — *After the Ball*
+
+**Playlist choice:** George J. Gaskin, *After the Ball* — 1893.
+
+**Preferred playable transfer:** https://youtu.be/soxPknRyH-k
+
+**Alternative transfer:** https://youtu.be/4YXFqT3PexY — scratchier, but accompanied by an unusually rich historical description of Gaskin and his recording career.
+
+**Archive/reference sources:**
+
+- Internet Archive: https://archive.org/details/AfterTheBallByGeorgeJ.Gaskin1893
+- UCSB cylinder catalogue: http://www.library.ucsb.edu/OBJID/Cylinder8097
+- Song background: https://en.wikipedia.org/wiki/After_the_Ball_(song)
+- SecondHandSongs performance/version trail: https://secondhandsongs.com/performance/225916/versions
+- Fleischer Studios / historical resource page: https://www.fleischerallstars.com/after-the-ball.html
+- Dave's Music Database: https://davesmusicdatabase.blogspot.com/1993/04/100-years-ago-george-j-gaskin-hit-1.html
+
+**Why this version matters:** Gaskin (1863–1920), born in Belfast and later active in the United States, was among the earliest major recording vocalists. He probably began recording around 1891 and was one of the most prolific and popular singers of the 1890s, working across comic, sentimental, patriotic, sacred and operatic repertoire. His strong, projecting delivery was particularly well suited to acoustic recording technology; contemporary catalogue copy stressed the loudness and clarity of his records.
+
+The selected 1893 performance therefore does more than provide an early recording of a famous song. It captures the peculiar economics and aesthetics of the first recording era: a huge sheet-music hit interpreted by a specialist recording singer whose voice had to work physically with primitive acoustic machinery. Gaskin's prominence later declined as recording technology improved and the qualities rewarded by the medium changed — a useful early example of technology shaping not just distribution, but the kind of performer who succeeds.
+
+**TIDAL:** not yet checked.
+
 ## Editorial principles established here
 
 ### Multiple recordings of the same composition are allowed
@@ -47,12 +72,24 @@ For early material, matching only artist + title is not sufficient. We should re
 - preferred YouTube link
 - TIDAL availability
 
+### Research should be deep, but the playlist workflow must stay bounded
+
+For each track, the canonical record should aim for:
+
+1. one preferred playable version;
+2. one alternate only when genuinely useful;
+3. one or two archival/authority sources (more only when the extra material is unusually valuable);
+4. a concise historical note explaining why the specific recording matters;
+5. platform availability.
+
+Interesting supplementary material can be preserved in the chapter research notes, but it should not prevent us moving on to the next track.
+
 ### YouTube is likely to be primary for the earliest chapters
 
 Specialist archival uploads and transfers make YouTube more useful than modern streaming catalogues for cylinder-era and early-disc recordings. TIDAL should still be recorded whenever the historically appropriate performance is available there.
 
 ## Current status
 
-**Curation draft complete.**
+**Curation draft complete; track-by-track verification in progress.**
 
-Next pass: verify the exact historical recording for every entry, remove/replace any weak proxies, and populate platform URLs before treating Chapter 1 as playlist-ready.
+Track 1 — George J. Gaskin, *After the Ball* — now has a preferred 1893 YouTube transfer and supporting archival references. Remaining tracks still require exact-version verification before Chapter 1 is playlist-ready.
