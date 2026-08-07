@@ -1,1 +1,1 @@
-# electric-shock-playlists
+# Electric Shock Playlists
