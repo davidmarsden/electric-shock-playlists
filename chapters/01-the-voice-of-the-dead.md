@@ -11,8 +11,8 @@ The playlist therefore should not sound like a generic “music before 1900” a
 | # | Status | Artist / performer | Track | Why it belongs | Verification |
 |---|---|---|---|---|---|
 | 1 | DOGGETT | George J. Gaskin | After the Ball | Central early example of a mass commercial song moving from sheet-music phenomenon into recorded culture. | **Verified candidate: 1893 Gaskin transfer; preferred YouTube link selected** |
-| 2 | DOGGETT | John Yorke AtLee | After the Ball | A second version is intentional: at this stage the song itself, not one definitive artist recording, is the commodity. | Exact recording/link to verify |
-| 3 | CONTEXT | George W. Johnson | The Laughing Song | Early Black recording star; demonstrates novelty, personality and repeatable performance as record-selling attractions. | Exact recording/link to verify |
+| 2 | UNAVAILABLE | John Yorke AtLee | After the Ball | Doggett's whistled performance is historically significant, but no surviving recording is known. | **Exclude from playable playlist; retain in research record** |
+| 3 | CONTEXT | George W. Johnson | The Laughing Song | Early Black recording star; demonstrates novelty, personality and repeatable performance as record-selling attractions. | **Preferred YouTube transfer selected; exact recording date/version still to verify** |
 | 4 | CONTEXT | George W. Johnson | The Whistling Coon | Historically important but racist material; included because racial caricature was embedded in the early commercial music business and should not be sanitised out of the history. | Exact recording/link to verify |
 | 5 | CONTEXT | Emile Berliner | Twinkle, Twinkle Little Star | Useful technological artefact from the transition toward the gramophone disc. | Exact recording/link to verify |
 | 6 | PROXY | Katie Lawrence | Daisy Bell (A Bicycle Built for Two) | Lawrence is part of Doggett's discussion of music-hall celebrity and copyright; the historically appropriate surviving recording still needs to be pinned down. | Performer/version to verify |
@@ -56,11 +56,43 @@ The selected 1893 performance therefore does more than provide an early recordin
 
 **TIDAL:** not yet checked.
 
+### 2. John Yorke AtLee — *After the Ball*
+
+**Status:** no surviving recording known.
+
+Doggett's reference remains useful because it reinforces the importance of *After the Ball* as a composition interpreted by multiple performers in the pre-modern record industry. But because no surviving recording of AtLee whistling the song is known, the performance will not be represented by a proxy in the playable playlist.
+
+### 3. George W. Johnson — *The Laughing Song*
+
+**Playlist choice:** George W. Johnson, *The Laughing Song*.
+
+**Preferred playable transfer:** https://youtu.be/4yvOMwHsh1A
+
+**Archive/reference sources:**
+
+- UCSB cylinder catalogue: http://www.library.ucsb.edu/OBJID/Cylinder17216
+- New York Public Library digital collection: https://digitalcollections.nypl.org/items/5c9be900-c58f-012f-35fb-58d385a7bc34
+- Biographical background: https://en.wikipedia.org/wiki/George_W._Johnson_(singer)
+
+**Why this recording matters:** George Washington Johnson (1846–1914) was a pioneering American recording artist and is widely described as the first African American star of the phonograph era. *The Laughing Song* and *The Whistling Coon* were his signature recordings, making his voice one of the earliest Black voices to achieve mass circulation through recorded sound.
+
+The commercial framing around Johnson also exposes the racism built into the early record business. Period promotional language described him in overtly racist terms, including “the original whistling coon and laughing darkey.” That wording is preserved here only as documentary evidence of how Johnson was marketed and categorised by the industry around him; it should not be reproduced as a neutral description of the artist.
+
+This makes *The Laughing Song* doubly important to the chapter: it demonstrates the emergence of the recording star while also showing how race, novelty and commercial exploitation were entwined from the beginning of the phonograph business.
+
+**Exact recording date/version:** still to verify.
+
+**TIDAL:** not yet checked.
+
 ## Editorial principles established here
 
 ### Multiple recordings of the same composition are allowed
 
-`After the Ball` should appear twice if suitable period recordings can be found. This is historically meaningful rather than redundant: it demonstrates a culture in which the **song/composition** could be the hit before the modern idea of a single definitive recording became dominant.
+`After the Ball` may appear more than once when suitable period recordings survive. This is historically meaningful rather than redundant: it demonstrates a culture in which the **song/composition** could be the hit before the modern idea of a single definitive recording became dominant.
+
+### Historically significant performances with no surviving recording stay in the research record
+
+Where Doggett discusses an important performance but no recording survives, we should document that absence rather than substitute a later or unrelated proxy. Such entries remain part of the chapter's research history but are excluded from the playable playlist.
 
 ### Exact recordings matter
 
@@ -92,4 +124,6 @@ Specialist archival uploads and transfers make YouTube more useful than modern s
 
 **Curation draft complete; track-by-track verification in progress.**
 
-Track 1 — George J. Gaskin, *After the Ball* — now has a preferred 1893 YouTube transfer and supporting archival references. Remaining tracks still require exact-version verification before Chapter 1 is playlist-ready.
+- Track 1 — George J. Gaskin, *After the Ball*: preferred 1893 YouTube transfer and supporting archival references recorded.
+- Track 2 — John Yorke AtLee, *After the Ball*: no surviving recording known; excluded from playable sequence.
+- Track 3 — George W. Johnson, *The Laughing Song*: preferred YouTube transfer and archival references recorded; exact recording date/version still to verify.
