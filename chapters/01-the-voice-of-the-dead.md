@@ -15,7 +15,8 @@ The playlist therefore should not sound like a generic “music before 1900” a
 | 3 | CONTEXT | George W. Johnson | The Laughing Song | Early Black recording star; demonstrates novelty, personality and repeatable performance as record-selling attractions. | **Preferred YouTube transfer selected; exact recording date/version still to verify** |
 | 4 | CONTEXT | George W. Johnson | The Whistling Coon | Historically important but racist material; included because racial caricature was embedded in the early commercial music business and should not be sanitised out of the history. | **Preferred YouTube transfer selected; exact recording date/version still to verify** |
 | 5 | CONTEXT | Emile Berliner | Twinkle, Twinkle Little Star | Useful technological artefact from the transition toward the gramophone disc. | **Preferred YouTube transfer selected; exact date/catalogue details still to verify** |
-| 6 | PROXY | Katie Lawrence | Daisy Bell (A Bicycle Built for Two) | Lawrence is part of Doggett's discussion of music-hall celebrity and copyright; the historically appropriate surviving recording still needs to be pinned down. | Performer/version to verify |
+| 6 | UNAVAILABLE | Katie Lawrence | Daisy Bell (A Bicycle Built for Two) | Lawrence belongs in the historical discussion, but no recording by her has been located. | **Retain in research record; exclude as a performer from playable playlist** |
+| 6a | CONTEXT | Dan W. Quinn | Daisy Bell (A Bicycle Built for Two) | A surviving near-contemporary recording of the same song lets us hear the composition in its original hit era without pretending it is Lawrence. | **Preferred YouTube transfer selected; 1893 date stated by uploader, independent verification pending** |
 | 7 | PROXY | Vesta Victoria | Daddy Wouldn't Buy Me a Bow-Wow | Represents British music-hall stardom and recognisable performer identity before modern recording-star culture. | Exact recording/link to verify |
 | 8 | DOGGETT | Harry Champion | Have You Paid the Rent? | Working-class music-hall material explicitly connected with Champion in Doggett's discussion. | Exact recording/link to verify |
 | 9 | DOGGETT | Marie Lloyd | A Little of What You Fancy Does You Good | Captures Lloyd's risqué music-hall persona and the importance of performer identity. | Exact recording/link to verify |
@@ -125,6 +126,30 @@ The CLPGS material also contains a wonderful side-route into national symbolism:
 
 **TIDAL:** not yet checked.
 
+### 6. Katie Lawrence — *Daisy Bell (A Bicycle Built for Two)*
+
+**Status:** no recording by Lawrence located.
+
+**Research sources:**
+
+- Music Hall Studies, issue 8: https://www.musichallstudies.co.uk/issue/issue-8
+- DAISY history/background: https://daisy.audio/blogs/seeds-n-circuits/why-is-it-called-daisy
+- SecondHandSongs version trail: https://secondhandsongs.com/performance/535650/all
+
+Lawrence remains part of the chapter's historical research because Doggett's discussion of her matters, but we should not manufacture a playable Katie Lawrence entry where no surviving recording has been found.
+
+### 6a. Dan W. Quinn — *Daisy Bell (A Bicycle Built for Two)*
+
+**Playlist choice:** Dan W. Quinn, *Daisy Bell (A Bicycle Built for Two)* — 1893 candidate.
+
+**Preferred playable transfer:** https://youtu.be/b732XpLeWPk
+
+The uploader identifies Quinn (1860–1938) as having had the original hit and states that this recording was made on September 16, 1893. That date is useful but should be independently verified when convenient.
+
+**Why this version matters:** Quinn gives us a surviving recording from the song's own hit era. It therefore works as a contextual substitute for the missing Lawrence performance while preserving the distinction between **the composition's historical importance** and **the identity of the performer Doggett discusses**. The playlist should label this as Quinn, not as a proxy reconstruction of Lawrence.
+
+**TIDAL:** not yet checked.
+
 ## Editorial principles established here
 
 ### Multiple recordings of the same composition are allowed
@@ -134,6 +159,10 @@ The CLPGS material also contains a wonderful side-route into national symbolism:
 ### Historically significant performances with no surviving recording stay in the research record
 
 Where Doggett discusses an important performance but no recording survives, we should document that absence rather than substitute a later or unrelated proxy. Such entries remain part of the chapter's research history but are excluded from the playable playlist.
+
+### A surviving period version of the same song may be used as context — but must be labelled honestly
+
+When the historically discussed performer is unavailable but a genuinely contemporary recording of the same composition survives, that recording can be included as **CONTEXT**. It should never be presented as if it were the missing performer's version.
 
 ### Exact recordings matter
 
@@ -170,3 +199,5 @@ Specialist archival uploads and transfers make YouTube more useful than modern s
 - Track 3 — George W. Johnson, *The Laughing Song*: preferred YouTube transfer and archival references recorded; exact recording date/version still to verify.
 - Track 4 — George W. Johnson, *The Whistling Coon*: preferred YouTube transfer and contextual sources recorded; exact recording date/version still to verify.
 - Track 5 — Emile Berliner, *Twinkle, Twinkle Little Star*: preferred and alternate YouTube transfers plus archival references recorded; exact date/catalogue details still to verify.
+- Track 6 — Katie Lawrence, *Daisy Bell*: no recording by Lawrence located; retained in research record.
+- Track 6a — Dan W. Quinn, *Daisy Bell*: surviving 1893-period contextual substitute selected; exact recording date independently pending.
