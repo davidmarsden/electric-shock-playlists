@@ -17,7 +17,7 @@ The playlist therefore should not sound like a generic “music before 1900” a
 | 5 | CONTEXT | Emile Berliner | Twinkle, Twinkle Little Star | Useful technological artefact from the transition toward the gramophone disc. | **Preferred YouTube transfer selected; exact date/catalogue details still to verify** |
 | 6 | UNAVAILABLE | Katie Lawrence | Daisy Bell (A Bicycle Built for Two) | Lawrence belongs in the historical discussion, but no recording by her has been located. | **Retain in research record; exclude as a performer from playable playlist** |
 | 6a | CONTEXT | Dan W. Quinn | Daisy Bell (A Bicycle Built for Two) | A surviving near-contemporary recording of the same song lets us hear the composition in its original hit era without pretending it is Lawrence. | **Preferred YouTube transfer selected; 1893 date stated by uploader, independent verification pending** |
-| 7 | PROXY | Vesta Victoria | Daddy Wouldn't Buy Me a Bow-Wow | Represents British music-hall stardom and recognisable performer identity before modern recording-star culture. | Exact recording/link to verify |
+| 7 | CONTEXT | Vesta Victoria | Daddy Wouldn't Buy Me a Bow-Wow | Represents British music-hall stardom and recognisable performer identity before modern recording-star culture. | **Preferred YouTube transfer selected; exact recording date/version still to verify** |
 | 8 | DOGGETT | Harry Champion | Have You Paid the Rent? | Working-class music-hall material explicitly connected with Champion in Doggett's discussion. | Exact recording/link to verify |
 | 9 | DOGGETT | Marie Lloyd | A Little of What You Fancy Does You Good | Captures Lloyd's risqué music-hall persona and the importance of performer identity. | Exact recording/link to verify |
 | 10 | DOGGETT | Albert Chevalier | My Old Dutch | Music-hall star power plus the sentimental side of commercial popular song. | Exact recording/link to verify |
@@ -150,6 +150,23 @@ The uploader identifies Quinn (1860–1938) as having had the original hit and s
 
 **TIDAL:** not yet checked.
 
+### 7. Vesta Victoria — *Daddy Wouldn't Buy Me a Bow-Wow*
+
+**Playlist choice:** Vesta Victoria, *Daddy Wouldn't Buy Me a Bow-Wow*.
+
+**Preferred playable transfer:** https://youtu.be/HhdrqldbTzg
+
+**Reference sources:**
+
+- Folk Song and Music Hall: https://folksongandmusichall.com/index.php/daddy-wouldnt-buy-me-a-bow-wow/
+- Into the Limelight biography: https://intothelimelight.org/2016/04/30/vesta-victoria/
+
+**Why this recording matters:** Vesta Victoria is a particularly useful British music-hall counterpart to the American cylinder stars already in the sequence. Her fame rested not simply on songs but on a highly recognisable stage persona, and *Daddy Wouldn't Buy Me a Bow-Wow* became one of the songs most strongly associated with her. That makes the surviving recording a bridge between music-hall celebrity and the later idea of a recording artist whose identity becomes inseparable from a song.
+
+**Exact recording date/version:** still to verify.
+
+**TIDAL:** not yet checked.
+
 ## Editorial principles established here
 
 ### Multiple recordings of the same composition are allowed
@@ -201,3 +218,4 @@ Specialist archival uploads and transfers make YouTube more useful than modern s
 - Track 5 — Emile Berliner, *Twinkle, Twinkle Little Star*: preferred and alternate YouTube transfers plus archival references recorded; exact date/catalogue details still to verify.
 - Track 6 — Katie Lawrence, *Daisy Bell*: no recording by Lawrence located; retained in research record.
 - Track 6a — Dan W. Quinn, *Daisy Bell*: surviving 1893-period contextual substitute selected; exact recording date independently pending.
+- Track 7 — Vesta Victoria, *Daddy Wouldn't Buy Me a Bow-Wow*: preferred YouTube transfer and historical references recorded; exact recording date/version still to verify.
