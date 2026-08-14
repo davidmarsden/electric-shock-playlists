@@ -13,8 +13,8 @@ The playlist therefore should not sound like a generic “music before 1900” a
 | 1 | DOGGETT | George J. Gaskin | After the Ball | Central early example of a mass commercial song moving from sheet-music phenomenon into recorded culture. | **Verified candidate: 1893 Gaskin transfer; preferred YouTube link selected** |
 | 2 | UNAVAILABLE | John Yorke AtLee | After the Ball | Doggett's whistled performance is historically significant, but no surviving recording is known. | **Exclude from playable playlist; retain in research record** |
 | 3 | CONTEXT | George W. Johnson | The Laughing Song | Early Black recording star; demonstrates novelty, personality and repeatable performance as record-selling attractions. | **Preferred YouTube transfer selected; exact recording date/version still to verify** |
-| 4 | CONTEXT | George W. Johnson | The Whistling Coon | Historically important but racist material; included because racial caricature was embedded in the early commercial music business and should not be sanitised out of the history. | Exact recording/link to verify |
-| 5 | CONTEXT | Emile Berliner | Twinkle, Twinkle Little Star | Useful technological artefact from the transition toward the gramophone disc. | Exact recording/link to verify |
+| 4 | CONTEXT | George W. Johnson | The Whistling Coon | Historically important but racist material; included because racial caricature was embedded in the early commercial music business and should not be sanitised out of the history. | **Preferred YouTube transfer selected; exact recording date/version still to verify** |
+| 5 | CONTEXT | Emile Berliner | Twinkle, Twinkle Little Star | Useful technological artefact from the transition toward the gramophone disc. | **Preferred YouTube transfer selected; exact date/catalogue details still to verify** |
 | 6 | PROXY | Katie Lawrence | Daisy Bell (A Bicycle Built for Two) | Lawrence is part of Doggett's discussion of music-hall celebrity and copyright; the historically appropriate surviving recording still needs to be pinned down. | Performer/version to verify |
 | 7 | PROXY | Vesta Victoria | Daddy Wouldn't Buy Me a Bow-Wow | Represents British music-hall stardom and recognisable performer identity before modern recording-star culture. | Exact recording/link to verify |
 | 8 | DOGGETT | Harry Champion | Have You Paid the Rent? | Working-class music-hall material explicitly connected with Champion in Doggett's discussion. | Exact recording/link to verify |
@@ -84,6 +84,47 @@ This makes *The Laughing Song* doubly important to the chapter: it demonstrates 
 
 **TIDAL:** not yet checked.
 
+### 4. George W. Johnson — *The Whistling Coon*
+
+**Playlist choice:** George W. Johnson, *The Whistling Coon*.
+
+**Preferred playable transfer:** https://youtu.be/hDoCaeVnNy4
+
+**Reference sources:**
+
+- Lyrics/transcription: https://genius.com/George-w-johnson-the-whistling-coon-lyrics
+- NPR transcript/background: https://www.npr.org/transcripts/5224572
+
+**Why this recording matters:** Johnson's other signature recording is impossible to treat as merely a jaunty novelty. Its lyric is explicitly racist and dehumanising, built from grotesque physical caricature and slurs. That is precisely why it belongs in the historical record. Johnson was an African American recording pioneer whose success was mediated through a white commercial culture that packaged Black performance using the language and conventions of minstrelsy.
+
+The playlist should therefore include the track with an explicit content note rather than either sanitising the period or presenting the song without explanation. Paired with *The Laughing Song*, it makes the contradiction around Johnson unusually audible: technological and commercial breakthrough alongside profound racial exploitation.
+
+**Exact recording date/version:** still to verify.
+
+**TIDAL:** not yet checked.
+
+### 5. Emile Berliner — *Twinkle, Twinkle Little Star*
+
+**Playlist choice:** Emile Berliner, *Twinkle, Twinkle Little Star*.
+
+**Preferred playable transfer:** https://youtu.be/mSrEgDxGl8U
+
+**Alternative transfer:** https://youtu.be/T61TYOVtF3Y
+
+**Archive/reference sources:**
+
+- Library of Congress / National Recording Preservation Board essay: https://www.loc.gov/static/programs/national-recording-preservation-board/documents/LordsPrayer_TwinkleTwinkleLittleStar.pdf
+- City of London Phonograph and Gramophone Society, Berliner disc notes: https://www.clpgs.org.uk/concert-no7---berliner-5-discs.html
+- Sound of the Hound article: https://soundofthehound.com/2011/05/20/emile-berliner-cuts-the-first-discs-tvinkle-tvinkle-little-star-how-i-vunder-vot-you-are/
+
+**Why this recording matters:** This is less about a great popular performance than about the object itself. Berliner’s experiments with lateral-cut discs point toward the gramophone record becoming a reproducible consumer format, so the track lets the playlist briefly foreground technology as an active force in musical history rather than an invisible carrier.
+
+The CLPGS material also contains a wonderful side-route into national symbolism: one Berliner disc label lists *Heil Dir* and *God Save the Queen*, two anthems sharing the same melody. That is a neat historical reminder that melodies, monarchies and national identities could circulate across borders just as freely as songs — and, yes, it gives the running joke about the British royal family's German roots unusually early phonographic ammunition.
+
+**Exact recording date/catalogue details:** still to verify.
+
+**TIDAL:** not yet checked.
+
 ## Editorial principles established here
 
 ### Multiple recordings of the same composition are allowed
@@ -127,3 +168,5 @@ Specialist archival uploads and transfers make YouTube more useful than modern s
 - Track 1 — George J. Gaskin, *After the Ball*: preferred 1893 YouTube transfer and supporting archival references recorded.
 - Track 2 — John Yorke AtLee, *After the Ball*: no surviving recording known; excluded from playable sequence.
 - Track 3 — George W. Johnson, *The Laughing Song*: preferred YouTube transfer and archival references recorded; exact recording date/version still to verify.
+- Track 4 — George W. Johnson, *The Whistling Coon*: preferred YouTube transfer and contextual sources recorded; exact recording date/version still to verify.
+- Track 5 — Emile Berliner, *Twinkle, Twinkle Little Star*: preferred and alternate YouTube transfers plus archival references recorded; exact date/catalogue details still to verify.
